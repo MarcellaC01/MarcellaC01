@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcellaC01
-- 👀 I’m interested in Data Science
+- 👀 Assistant Researcher at the UTSA Data Analytics Center
 - 🌱 I’m currently a CS major & Math minor
-- Working on creating and training machine learning models for the Data Analytics Center at UTSA.
+- Check out my published data visualization on page 13 here: https://www.utsa.edu/sciences/catalyst.html
 - Check out my Tableau!
 
 <!---
